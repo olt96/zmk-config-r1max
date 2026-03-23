@@ -16,10 +16,10 @@
 &kp ESC       &kp A         &kp Q         &kp J         &kp K         &kp X              &kp B         &kp M         &kp W         &kp V         &kp S         &kp QMARK
               &kp SEMI      &kp LEFT      &kp RIGHT                                                                  &kp UP        &kp DOWN      &kp Z
                                           &kp SPACE     &kp RET       &kp LSHIFT           &mo 1        &kp DEL       &kp BSPC
-                                                        &kp LGUI                                         &kp RGUI 
+                                                        &kp LGUI                                        &kp RGUI 
             >;
         };
-        
+       
         config_layer{
             bindings = <
                                    &bt BT_CLR BT(1)     BT(2)     BT(3)                       &none     &none     &none     &none 
