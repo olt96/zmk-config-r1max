@@ -10,7 +10,7 @@
         compatible = "zmk,keymap";
         default_layer {
             bindings = <
-                            &kp LSHFT     &kp DEL       &kp LALT      &kp LCTRL          &kp RCTRL     &kp RALT      &kp DEL       &kp RSHFT     
+                            &kp STAR      &kp DEL       &kp LALT      &kp LCTRL          &kp RCTRL     &kp RALT      &kp DEL       &kp UNDER     
                             &kp COMMA     &kp DOT       &kp P         &kp Y              &kp F         &kp G         &kp C         &kp R                  
 &kp TAB       &kp SQT       &kp O         &kp E         &kp U         &kp I              &kp D         &kp H         &kp T         &kp N         &kp L         &kp SLASH
 &kp ESC       &kp A         &kp Q         &kp J         &kp K         &kp X              &kp B         &kp M         &kp W         &kp V         &kp S         &kp QMARK
